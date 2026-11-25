@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#061b2d"/><stop offset="1" stop-color="#0a4c66"/></linearGradient></defs>
+  <rect width="1200" height="760" fill="url(#b)"/>
+  <rect x="170" y="140" width="860" height="340" rx="30" fill="#f4f8f8"/>
+  <rect x="235" y="210" width="430" height="190" rx="12" fill="#0b293d"/>
+  <path d="M285 320h70l35-62 58 118 42-82 31 44h94" fill="none" stroke="#42d0d4" stroke-width="12" stroke-linejoin="round"/>
+  <g transform="translate(830 305)" fill="none" stroke="#0c829d" stroke-width="23" stroke-linecap="round"><circle r="78"/><path d="m55 55 95 95"/></g>
+  <g fill="#dff9fa" font-family="Arial,sans-serif" text-anchor="middle"><text x="600" y="610" font-size="30" font-weight="700">DIAGNOSTIC &amp; DÉPANNAGE</text><text x="600" y="652" font-size="17">SYMPTÔMES · CODES DÉFAUT · CONTRÔLES · CAUSE</text></g>
+</svg>

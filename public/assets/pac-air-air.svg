@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#eaf7f8"/><stop offset="1" stop-color="#bde6e9"/></linearGradient><linearGradient id="n" x2="1"><stop stop-color="#062139"/><stop offset="1" stop-color="#0b7591"/></linearGradient></defs>
+  <rect width="1200" height="760" fill="url(#b)"/>
+  <path d="M150 585V255l265-165 265 165v330z" fill="#fff" stroke="#a7cfd3" stroke-width="4"/>
+  <rect x="235" y="260" width="360" height="90" rx="18" fill="#f8fbfb" stroke="#789da5" stroke-width="4"/>
+  <path d="M275 324h280" stroke="#92aeb4" stroke-width="6" stroke-linecap="round"/>
+  <g fill="none" stroke="#19afba" stroke-width="10" stroke-linecap="round"><path d="M315 370c-45 70 10 98 0 145"/><path d="M415 370c-45 70 10 98 0 145"/><path d="M515 370c-45 70 10 98 0 145"/></g>
+  <rect x="760" y="280" width="290" height="305" rx="18" fill="url(#n)"/>
+  <circle cx="905" cy="415" r="92" fill="none" stroke="#d9f8f9" stroke-width="13"/><circle cx="905" cy="415" r="16" fill="#d9f8f9"/>
+  <path d="M905 325c38 44 35 72 0 90-35-18-38-46 0-90M995 415c-44 38-72 35-90 0 18-35 46-38 90 0M905 505c-38-44-35-72 0-90 35 18 38 46 0 90M815 415c44-38 72-35 90 0-18 35-46 38-90 0" fill="#76dde1"/>
+  <path d="M680 430h80" stroke="#0a8da2" stroke-width="9" stroke-dasharray="15 12"/>
+  <text x="600" y="680" fill="#08293d" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="middle">POMPE À CHALEUR AIR / AIR</text>
+</svg>

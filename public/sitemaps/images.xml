@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://climatiseur.vercel.app/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <image:image>
+      <image:loc>https://climatiseur.vercel.app/assets/hero-climatiseure.png</image:loc>
+      <image:title>Climatisation et confort thermique par CLIMATIS'EURE</image:title>
+      <image:caption>Intérieur contemporain équipé d'une solution de climatisation discrète dans l'Eure.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://climatiseur.vercel.app/climatisation/climatisation-monosplit</loc>
+    <lastmod>2026-11-25</lastmod>
+    <image:image>
+      <image:loc>https://climatiseur.vercel.app/assets/monosplit-interieur.png</image:loc>
+      <image:title>Climatisation monosplit dans l'Eure</image:title>
+      <image:caption>Unité de climatisation murale intégrée dans une pièce de vie contemporaine.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://climatiseur.vercel.app/climatisation/climatisation-multisplit</loc>
+    <lastmod>2026-11-25</lastmod>
+    <image:image>
+      <image:loc>https://climatiseur.vercel.app/assets/multisplit-exterieur.png</image:loc>
+      <image:title>Installation multisplit dans l'Eure</image:title>
+      <image:caption>Groupe extérieur de climatisation installé proprement contre une maison.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://climatiseur.vercel.app/climatisation/climatisation-gainable</loc>
+    <lastmod>2026-11-25</lastmod>
+    <image:image>
+      <image:loc>https://climatiseur.vercel.app/assets/gainable-airzone.svg</image:loc>
+      <image:title>Climatisation gainable avec régulation Airzone dans l'Eure</image:title>
+      <image:caption>Schéma technique du réseau gainable et de la régulation multizone.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://climatiseur.vercel.app/pompes-a-chaleur/air-air</loc>
+    <lastmod>2026-11-25</lastmod>
+    <image:image>
+      <image:loc>https://climatiseur.vercel.app/assets/pac-air-air.svg</image:loc>
+      <image:title>Pompe à chaleur air air dans l'Eure</image:title>
+      <image:caption>Illustration du transfert d'énergie d'une pompe à chaleur air air.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://climatiseur.vercel.app/pompes-a-chaleur/air-eau</loc>
+    <lastmod>2026-11-25</lastmod>
+    <image:image>
+      <image:loc>https://climatiseur.vercel.app/assets/pac-air-eau.svg</image:loc>
+      <image:title>Pompe à chaleur air eau dans l'Eure</image:title>
+      <image:caption>Illustration d'une pompe à chaleur reliée à un circuit hydraulique.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://climatiseur.vercel.app/entretien/entretien-climatisation</loc>
+    <lastmod>2026-11-25</lastmod>
+    <image:image>
+      <image:loc>https://climatiseur.vercel.app/assets/entretien-climatisation.svg</image:loc>
+      <image:title>Entretien de climatisation dans l'Eure</image:title>
+      <image:caption>Contrôle des filtres, échangeurs, condensats et paramètres de fonctionnement.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://climatiseur.vercel.app/depannage/depannage-climatisation</loc>
+    <lastmod>2026-11-25</lastmod>
+    <image:image>
+      <image:loc>https://climatiseur.vercel.app/assets/depannage-climatisation.svg</image:loc>
+      <image:title>Dépannage de climatisation dans l'Eure</image:title>
+      <image:caption>Diagnostic méthodique des symptômes et codes défaut d'une climatisation.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://climatiseur.vercel.app/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <image:image>
+      <image:loc>https://climatiseur.vercel.app/assets/installateur-climatiseure.svg</image:loc>
+      <image:title>Installateur CLIMATIS'EURE</image:title>
+      <image:caption>Illustration d'un installateur aux couleurs de CLIMATIS'EURE.</image:caption>
+    </image:image>
+  </url>
+</urlset>

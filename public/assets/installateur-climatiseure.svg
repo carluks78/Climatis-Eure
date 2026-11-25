@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#dff3f4"/><stop offset="1" stop-color="#9ed3d9"/></linearGradient><linearGradient id="s" x2="1"><stop stop-color="#061c30"/><stop offset="1" stop-color="#0a536e"/></linearGradient></defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <path d="M80 590h1040V320L870 175H630L440 290H80z" fill="#fff" opacity=".72"/>
+  <g transform="translate(410 95)">
+    <circle cx="190" cy="130" r="72" fill="#e0b38d"/>
+    <path d="M125 126c5-90 132-106 142-8-35-45-92-52-142 8z" fill="#163146"/>
+    <path d="M88 300c0-75 45-120 102-120s102 45 102 120v250H88z" fill="url(#s)"/>
+    <path d="M88 300 25 440M292 300l66 140" fill="none" stroke="#e0b38d" stroke-width="45" stroke-linecap="round"/>
+    <g transform="translate(130 245)" fill="none" stroke="#42d2d7" stroke-width="5" stroke-linecap="round"><path d="M28 0v56M4 14l48 29M4 43 52 14"/><circle cx="28" cy="28" r="6" fill="#42d2d7"/></g>
+    <text x="195" y="340" fill="#fff" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">CLIMATIS'EURE</text>
+    <rect x="60" y="535" width="120" height="35" rx="12" fill="#09243a"/><rect x="200" y="535" width="120" height="35" rx="12" fill="#09243a"/>
+  </g>
+  <rect x="780" y="390" width="260" height="165" rx="18" fill="#f7fbfb" stroke="#6f9aa3" stroke-width="4"/>
+  <circle cx="910" cy="475" r="55" fill="none" stroke="#21b6be" stroke-width="9"/><circle cx="910" cy="475" r="12" fill="#21b6be"/>
+  <text x="600" y="690" fill="#08293d" font-family="Arial,sans-serif" font-size="30" font-weight="700" text-anchor="middle">INSTALLATION · PRÉCISION · PROPRETÉ</text>
+</svg>

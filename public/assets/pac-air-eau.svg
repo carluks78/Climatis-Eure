@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#061c30"/><stop offset="1" stop-color="#0b566e"/></linearGradient><linearGradient id="w" y2="1"><stop stop-color="#46d3d7"/><stop offset="1" stop-color="#087da4"/></linearGradient></defs>
+  <rect width="1200" height="760" fill="url(#b)"/>
+  <rect x="110" y="190" width="300" height="350" rx="20" fill="#e9f0f1"/>
+  <circle cx="260" cy="345" r="105" fill="none" stroke="#78949b" stroke-width="15"/><circle cx="260" cy="345" r="18" fill="#597780"/>
+  <path d="M260 240c45 50 42 83 0 105-42-22-45-55 0-105M365 345c-50 45-83 42-105 0 22-42 55-45 105 0M260 450c-45-50-42-83 0-105 42 22 45 55 0 105M155 345c50-45 83-42 105 0-22 42-55 45-105 0" fill="#3bc2c9"/>
+  <rect x="770" y="155" width="260" height="410" rx="25" fill="#f8fbfb"/>
+  <rect x="835" y="220" width="130" height="250" rx="65" fill="url(#w)"/>
+  <path d="M410 420h150v-90h210M410 470h210v70h150" fill="none" stroke="#46d3d7" stroke-width="14"/>
+  <path d="M550 330c-25 15-25 45 0 60 25-15 25-45 0-60z" fill="#fff"/>
+  <g fill="#dafafa" font-family="Arial,sans-serif" text-anchor="middle"><text x="600" y="665" font-size="30" font-weight="700">POMPE À CHALEUR AIR / EAU</text><text x="600" y="705" font-size="17">ÉNERGIE EXTÉRIEURE · CIRCUIT HYDRAULIQUE</text></g>
+</svg>
